@@ -1,13 +1,13 @@
 ﻿using AuthentificationApi.Context;
 using AuthentificationApi.Models;
-using Microsoft.AspNetCore.Components;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 
 namespace AuthentificationApi.Controllers
 {
     [Route("[controller]")]
-    public class AuthentificationController : Controller
+    [ApiController]
+    public class AuthentificationController : ControllerBase
     {
         private readonly AppDbContext _dbContext;
         public AuthentificationController(AppDbContext dbContext)
