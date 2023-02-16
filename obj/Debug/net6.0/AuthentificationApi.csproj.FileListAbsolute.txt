@@ -1,0 +1,59 @@
+C:\My Folder\Projects\AuthentificationApi\bin\Debug\net6.0\appsettings.Development.json
+C:\My Folder\Projects\AuthentificationApi\bin\Debug\net6.0\appsettings.json
+C:\My Folder\Projects\AuthentificationApi\bin\Debug\net6.0\AuthentificationApi.exe
+C:\My Folder\Projects\AuthentificationApi\bin\Debug\net6.0\AuthentificationApi.deps.json
+C:\My Folder\Projects\AuthentificationApi\bin\Debug\net6.0\AuthentificationApi.runtimeconfig.json
+C:\My Folder\Projects\AuthentificationApi\bin\Debug\net6.0\AuthentificationApi.dll
+C:\My Folder\Projects\AuthentificationApi\bin\Debug\net6.0\AuthentificationApi.pdb
+C:\My Folder\Projects\AuthentificationApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\My Folder\Projects\AuthentificationApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\My Folder\Projects\AuthentificationApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\My Folder\Projects\AuthentificationApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\My Folder\Projects\AuthentificationApi\obj\Debug\net6.0\AuthentificationApi.csproj.AssemblyReference.cache
+C:\My Folder\Projects\AuthentificationApi\obj\Debug\net6.0\AuthentificationApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\My Folder\Projects\AuthentificationApi\obj\Debug\net6.0\AuthentificationApi.AssemblyInfoInputs.cache
+C:\My Folder\Projects\AuthentificationApi\obj\Debug\net6.0\AuthentificationApi.AssemblyInfo.cs
+C:\My Folder\Projects\AuthentificationApi\obj\Debug\net6.0\AuthentificationApi.csproj.CoreCompileInputs.cache
+C:\My Folder\Projects\AuthentificationApi\obj\Debug\net6.0\AuthentificationApi.MvcApplicationPartsAssemblyInfo.cs
+C:\My Folder\Projects\AuthentificationApi\obj\Debug\net6.0\AuthentificationApi.MvcApplicationPartsAssemblyInfo.cache
+C:\My Folder\Projects\AuthentificationApi\obj\Debug\net6.0\staticwebassets\msbuild.AuthentificationApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\My Folder\Projects\AuthentificationApi\obj\Debug\net6.0\staticwebassets\msbuild.build.AuthentificationApi.props
+C:\My Folder\Projects\AuthentificationApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.AuthentificationApi.props
+C:\My Folder\Projects\AuthentificationApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.AuthentificationApi.props
+C:\My Folder\Projects\AuthentificationApi\obj\Debug\net6.0\staticwebassets.pack.json
+C:\My Folder\Projects\AuthentificationApi\obj\Debug\net6.0\staticwebassets.build.json
+C:\My Folder\Projects\AuthentificationApi\obj\Debug\net6.0\staticwebassets.development.json
+C:\My Folder\Projects\AuthentificationApi\obj\Debug\net6.0\scopedcss\bundle\AuthentificationApi.styles.css
+C:\My Folder\Projects\AuthentificationApi\obj\Debug\net6.0\AuthentificationApi.csproj.CopyComplete
+C:\My Folder\Projects\AuthentificationApi\obj\Debug\net6.0\AuthentificationApi.dll
+C:\My Folder\Projects\AuthentificationApi\obj\Debug\net6.0\refint\AuthentificationApi.dll
+C:\My Folder\Projects\AuthentificationApi\obj\Debug\net6.0\AuthentificationApi.pdb
+C:\My Folder\Projects\AuthentificationApi\obj\Debug\net6.0\AuthentificationApi.genruntimeconfig.cache
+C:\My Folder\Projects\AuthentificationApi\obj\Debug\net6.0\ref\AuthentificationApi.dll
+D:\Projects\AuthApi\bin\Debug\net6.0\appsettings.Development.json
+D:\Projects\AuthApi\bin\Debug\net6.0\appsettings.json
+D:\Projects\AuthApi\bin\Debug\net6.0\AuthentificationApi.exe
+D:\Projects\AuthApi\bin\Debug\net6.0\AuthentificationApi.deps.json
+D:\Projects\AuthApi\bin\Debug\net6.0\AuthentificationApi.runtimeconfig.json
+D:\Projects\AuthApi\bin\Debug\net6.0\AuthentificationApi.dll
+D:\Projects\AuthApi\bin\Debug\net6.0\AuthentificationApi.pdb
+D:\Projects\AuthApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Projects\AuthApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Projects\AuthApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Projects\AuthApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Projects\AuthApi\obj\Debug\net6.0\AuthentificationApi.csproj.AssemblyReference.cache
+D:\Projects\AuthApi\obj\Debug\net6.0\AuthentificationApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\AuthApi\obj\Debug\net6.0\AuthentificationApi.AssemblyInfoInputs.cache
+D:\Projects\AuthApi\obj\Debug\net6.0\AuthentificationApi.AssemblyInfo.cs
+D:\Projects\AuthApi\obj\Debug\net6.0\AuthentificationApi.csproj.CoreCompileInputs.cache
+D:\Projects\AuthApi\obj\Debug\net6.0\AuthentificationApi.MvcApplicationPartsAssemblyInfo.cs
+D:\Projects\AuthApi\obj\Debug\net6.0\AuthentificationApi.MvcApplicationPartsAssemblyInfo.cache
+D:\Projects\AuthApi\obj\Debug\net6.0\staticwebassets.build.json
+D:\Projects\AuthApi\obj\Debug\net6.0\staticwebassets.development.json
+D:\Projects\AuthApi\obj\Debug\net6.0\scopedcss\bundle\AuthentificationApi.styles.css
+D:\Projects\AuthApi\obj\Debug\net6.0\AuthentificationApi.csproj.CopyComplete
+D:\Projects\AuthApi\obj\Debug\net6.0\AuthentificationApi.dll
+D:\Projects\AuthApi\obj\Debug\net6.0\refint\AuthentificationApi.dll
+D:\Projects\AuthApi\obj\Debug\net6.0\AuthentificationApi.pdb
+D:\Projects\AuthApi\obj\Debug\net6.0\AuthentificationApi.genruntimeconfig.cache
+D:\Projects\AuthApi\obj\Debug\net6.0\ref\AuthentificationApi.dll
